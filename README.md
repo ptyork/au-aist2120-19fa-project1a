@@ -25,7 +25,7 @@ ONLY worry about the first two rules. Treat "y" as a standard consonant. Do NOT 
 2. When translating a "word", be careful to check for punctuation and deal with that correctly. Especially words followed by periods, commas, etc. But also words starting or ending with quotation marks. Pay attention to periods, question marks, exclamation points, commas, quotation marks, semi-colons, and dashes. E.g.:
     - battle, ==> attle-bay,
         * __not__ attle,-bay
-    - "rejoicing ==> "ejoicing-bay
+    - "rejoicing ==> "ejoicing-ray
         * __not__ rejoicing-"ay
     - tribulation," ==> ribulation-tay,"
         * __not__ ribulation,"-tay
